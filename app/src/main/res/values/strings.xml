@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="hint_email">example@email.com</string>
+    <string name="hint_password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello">To our shoe shop \n Come on and dive in</string>
+    <string name="goToShoeList">Go To Shoe List</string>
+    <string name="logOut">Log Out</string>
+    <string name="shoeDetail">Shoe detail</string>
+    <string name="shoeListText">No Show List available</string>
+    <string name="shoe_item_size">Shoe Size: %.1f</string>
+    <string name="shoe_item_company">Company: %s</string>
+    <string name="shoe_item_description">Description: %s</string>
+    <string name="shoe_item_image">Image for shoe item to display</string>
+    <string name="instructions">Press the button below to go to the shoe list.</string>
+    <string name="description_text">shoe_item_image</string>
+    <string name="shoeName">Shoe Name</string>
+    <string name="instructionTitle">Instructions</string>
+    <string name="noShoeList">No Shoe list To Display :)</string>
+    <string name="addDescription">Add New Shoe</string>
+    <string name="shoeCompany">Shoe Company</string>
+    <string name="shoeDescription">Shoe Description</string>
+    <string name="shoeSize">Shoe Size</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="saveButton">Save</string>
+    <string name="enter">Enter -></string>
+
+</resources>
